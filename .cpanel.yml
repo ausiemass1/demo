@@ -1,3 +1,4 @@
 deployment:
   tasks:
 /home/hillside/public_html/repositories/demo
+- /bin/cp index.html $DEPLOYPATH
